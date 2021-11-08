@@ -258,8 +258,8 @@ This is the implementation of how the entropy is calculated. Further, if it is g
 
 ## Authors
 
-[Rishabh Singhal](https://rish-singhal.github.io)
-[Aman Rojjha](https://sarcasticnastik.github.io/)
+1. [Rishabh Singhal](https://rish-singhal.github.io)            
+2. [Aman Rojjha](https://sarcasticnastik.github.io/)
 
 ## Resources
 1. *Omar, T., Ho, A., & Urbina, B. Detection of DDoS in SDN Environment Using Entropy-based Detection.*
